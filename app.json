@@ -1,0 +1,29 @@
+{
+  "package_id": "dev.yashh.cue",
+  "edition": "202601",
+  "name": "Cue",
+  "version": "1.0.0",
+  "min_sdk_version": "0.0.16",
+  "entrypoint": "index.html",
+  "permissions": [
+    {
+      "name": "network",
+      "desc": "Connects Cue HUD to your local backend gateway for Telegram, Notion, Calendar, and AI reply drafts.",
+      "whitelist": [
+        "http://localhost:8787",
+        "http://127.0.0.1:8787"
+      ]
+    },
+    {
+      "name": "g2-microphone",
+      "desc": "Captures short hands-free voice commands from Even G2 temple hold gestures."
+    },
+    {
+      "name": "phone-microphone",
+      "desc": "Fallback microphone capture when glasses microphone is unavailable."
+    }
+  ],
+  "supported_languages": [
+    "en"
+  ]
+}

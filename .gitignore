@@ -1,0 +1,9 @@
+node_modules/
+dist/
+data/
+.env
+.atelier/
+.hallmark/
+*.log
+*.tmp
+.DS_Store
