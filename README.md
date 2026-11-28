@@ -3,7 +3,22 @@
 **Track:** `04 · AI Assistants & Work` (+ Cross-Track `01 · Messaging & News` & **Best Telegram Integration**)  
 **Package ID:** `dev.yashh.cue` · **Built with:** `@evenrealities/even_hub_sdk@0.0.16`, `evenhub-cli@0.2.0`, `evenhub-simulator@0.9.5`, TypeScript, Node.js 22, Vite 8
 
+> **What Cue does that Even AI cannot do on its own:** Instead of waiting for isolated single-turn voice queries, Cue continuously streams your live calendar and urgent Telegram messages to the glasses, compiles compound cross-app voice actions across Telegram and Notion, and enforces a 3-second hardware undo guard with a server-side audit ledger before any external message is ever sent.
+
 Cue turns your Even Realities G2 glasses (`576 × 288` monochrome green display, R1 smart ring / temple touchbars, and glasses microphone) into a glanceable **Read-and-Write Chief-of-Staff**: see your next meeting, Notion sprint tasks, and urgent Telegram messages at a glance, then approve AI-drafted replies or compound voice commands in two taps behind a strict **3-second Undo Guard**.
+
+---
+
+## Live Narrated Demo Walkthrough (`2m 31s`, Official EvenHub Simulator + Companion)
+
+- **Watch Direct MP4:** [`cue-even-g2-demo.mp4`](https://yashh1323.github.io/cue-even-g2/demo/cue-even-g2-demo.mp4)
+- **Chapters:** `0:00` What Cue does vs Even AI · `0:22` Step-by-step account setup & Zero-WebView QR pairing · `0:54` 10:48 AM pre-meeting brief · `1:10` Urgent Telegram DM push & 3s hardware undo cancellation · `1:36` Temple-hold G2 Mic waveform & compound voice intent · `1:58` Live 3s commit & server-side Telegram + Notion audit receipt · `2:15` SDK `0.0.16` `.ehpk` packaging
+
+| 1. Zero-WebView QR & Companion Pairing | 2. Real-Time Urgent Telegram DM Push |
+| :---: | :---: |
+| ![QR Pairing](docs/screenshots/cue-shot-01-pairing.png) | ![Telegram DM Push](docs/screenshots/cue-shot-02-now-telegram.png) |
+| **3. Live 3-Second Hardware Undo Guard** | **4. Compound Voice Commit & Audit Receipt** |
+| ![3s Undo Guard](docs/screenshots/cue-shot-03-undo-guard.png) | ![Audit Receipt](docs/screenshots/cue-shot-04-voice-receipt.png) |
 
 ---
 

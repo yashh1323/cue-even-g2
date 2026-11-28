@@ -4,6 +4,10 @@ data/
 .env
 .atelier/
 .hallmark/
+demo/audio/
+demo/raw-video/
+demo/frames/
+demo/concat.txt
 *.log
 *.tmp
 .DS_Store
