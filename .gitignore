@@ -6,6 +6,7 @@ data/
 .hallmark/
 demo/audio/
 demo/raw-video/
+demo/raw-real.mp4
 demo/frames/
 demo/concat.txt
 *.log

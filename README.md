@@ -9,16 +9,16 @@ Cue turns your Even Realities G2 glasses (`576 × 288` monochrome green display,
 
 ---
 
-## Live Narrated Demo Walkthrough (`2m 31s`, Official EvenHub Simulator + Companion)
+## Live Unedited Demo Walkthrough (`1m 16s`, Real Cue App + Official EvenHub Simulator)
 
 - **Watch Direct MP4:** [`cue-even-g2-demo.mp4`](https://yashh1323.github.io/cue-even-g2/demo/cue-even-g2-demo.mp4)
-- **Chapters:** `0:00` What Cue does vs Even AI · `0:22` Step-by-step account setup & Zero-WebView QR pairing · `0:54` 10:48 AM pre-meeting brief · `1:10` Urgent Telegram DM push & 3s hardware undo cancellation · `1:36` Temple-hold G2 Mic waveform & compound voice intent · `1:58` Live 3s commit & server-side Telegram + Notion audit receipt · `2:15` SDK `0.0.16` `.ehpk` packaging
+- **Chapters:** `0:00` Server-side account connectors (`Telegram Bot`, `OpenRouter`, `Notion`, `Calendar ICS`) · `0:10` Zero-WebView Gray8 QR pairing & claim · `0:24` Live pre-meeting brief & G2 card scrolling · `0:42` Live urgent Telegram DM SSE push & 3-second hardware undo cancellation · `0:56` Voice dual intent (`Telegram + Notion`), live 3s countdown commit & Audit Ledger receipt
 
-| 1. Zero-WebView QR & Companion Pairing | 2. Real-Time Urgent Telegram DM Push |
+| 1. Zero-WebView QR Pairing & Code | 2. Live 3-Second Hardware Undo Guard |
 | :---: | :---: |
-| ![QR Pairing](docs/screenshots/cue-shot-01-pairing.png) | ![Telegram DM Push](docs/screenshots/cue-shot-02-now-telegram.png) |
-| **3. Live 3-Second Hardware Undo Guard** | **4. Compound Voice Commit & Audit Receipt** |
-| ![3s Undo Guard](docs/screenshots/cue-shot-03-undo-guard.png) | ![Audit Receipt](docs/screenshots/cue-shot-04-voice-receipt.png) |
+| ![QR Pairing](docs/screenshots/real-01-connectors-and-pairing.png) | ![3s Undo Guard](docs/screenshots/real-02-live-3s-undo-guard.png) |
+| **3. Executed Audit Ledger Receipt** | **4. Official EvenHub Simulator WebView** |
+| ![Audit Ledger](docs/screenshots/real-03-executed-audit-ledger.png) | ![EvenHub Simulator WebView](docs/screenshots/real-04-evenhub-simulator-webview.png) |
 
 ---
 
